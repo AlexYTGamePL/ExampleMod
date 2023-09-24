@@ -1,0 +1,8 @@
+{
+  "item.examplemod.tin_ingot": "Tin Ingot",
+  "item.examplemod.tin_raw": "Raw Tin",
+  "item.examplemod.tin_wand": "Tin Wand",
+
+  "block.examplemod.tin_ore": "Tin Ore",
+  "block.examplemod.example_entity_block": "Example Entity Block"
+}

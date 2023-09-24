@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north" : { "model": "examplemod:block/tin_ore" },
+    "facing=east" : { "model": "examplemod:block/tin_ore", "y": 90 },
+    "facing=south" : { "model": "examplemod:block/tin_ore", "y": 180 },
+    "facing=west" : { "model": "examplemod:block/tin_ore", "y": 270 }
+  }
+}
